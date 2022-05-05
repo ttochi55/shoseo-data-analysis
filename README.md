@@ -1,1 +1,1 @@
-# academy-shoseo-data-analysis
+# Data-Analysis-2020
